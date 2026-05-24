@@ -28,7 +28,7 @@ A SQL-based analysis of marketing and employee data, exploring key business metr
 ### 3. Airbnb Dublin — Python & Data Analysis
 Analysis of Airbnb user interaction data in Dublin, focused on identifying behavioral patterns and conversion rate optimization. Includes data cleaning, feature engineering, and statistical visualization.
 
-- **Repository:** [Project-3---Airbnb-Dublin-](https://github.com/nemiys/Project-3---Airbnb-Dublin-)
+- **Repository:** [airbnb-dublin-conversion-analysis-python](https://github.com/nemiys/airbnb-dublin-conversion-analysis-python)
 - **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/Project-3---Airbnb-Dublin-/blob/main/AirbnbDablin.ipynb)
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - **Key Skills:** Data cleaning, feature engineering, exploratory data analysis, business insights
