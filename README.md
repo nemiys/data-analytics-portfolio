@@ -29,7 +29,7 @@ A SQL-based analysis of marketing and employee data, exploring key business metr
 Analysis of Airbnb user interaction data in Dublin, focused on identifying behavioral patterns and conversion rate optimization. Includes data cleaning, feature engineering, and statistical visualization.
 
 - **Repository:** [airbnb-dublin-conversion-analysis-python](https://github.com/nemiys/airbnb-dublin-conversion-analysis-python)
-- **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/Project-3---Airbnb-Dublin-/blob/main/AirbnbDablin.ipynb)
+- **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/main/AirbnbDablin.ipynb)
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - **Key Skills:** Data cleaning, feature engineering, exploratory data analysis, business insights
 - **Status:** 🚧 In progress
@@ -48,4 +48,9 @@ Analysis of Airbnb user interaction data in Dublin, focused on identifying behav
 ---
 
 ## About Me
-Practical Data Analyst | Passionate about turning data into actionable insights.
+
+Data Analyst combining strong technical skills with an analytical foundation built as an Intelligence Officer — experienced in transforming complex, multi-source data into clear insights and actionable recommendations.
+
+Proficient in SQL, Python, Tableau, and Excel, with project experience spanning data cleaning, analysis, and visualization. A fast and independent learner who leverages AI tools as a core part of the analytical workflow — from data exploration to documentation and reporting.
+
+📫 [LinkedIn](https://www.linkedin.com/in/nemi-yossef-hai) · nemiys@gmail.com
