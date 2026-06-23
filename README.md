@@ -7,32 +7,34 @@ Welcome to my data analytics portfolio. Here you'll find projects showcasing my 
 ## Projects
 
 ### 1. HR Employee Dashboard — Tableau
-An interactive HR analytics dashboard providing workforce insights including hiring trends, demographics, and performance analysis.
+An interactive HR analytics dashboard built in Tableau, providing HR managers with workforce summaries and demographic insights across 8,950 employee records.
 
 - **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/HROverviewProject/Dashboard1)
 - **Repository:** [tableau-hr-dashboard](https://github.com/nemiys/tableau-hr-dashboard)
 - **Tools:** Tableau Desktop, CSV
 - **Key Skills:** Data visualization, calculated fields, dashboard design
+- **Highlights:** Hiring & termination trends (2015–2024), department breakdown, education vs. performance correlation
 
 ---
 
-### 2. Marketing Analytics — SQL
-A SQL-based analysis of marketing and employee data, exploring key business metrics and trends.
+### 2. Marketing Analytics — SQL (BigQuery)
+End-to-end marketing performance analysis for an online advertising platform. 13 queries across two sections: general campaign overview and segmented deep dives.
 
 - **Repository:** [marketing-analytics-sql](https://github.com/nemiys/marketing-analytics-sql)
-- **Tools:** SQL
-- **Key Skills:** Data querying, aggregations, joins, business analysis
+- **Tools:** BigQuery SQL
+- **Key Skills:** CTEs, window functions, conditional aggregation, funnel analysis, ROI & CAC calculation
+- **Highlights:** Full impression→click→conversion funnel, segmentation by gender/device/country/product, cost efficiency analysis
 
 ---
 
-### 3. Airbnb Dublin — Python & Data Analysis
-Analysis of Airbnb user interaction data in Dublin, focused on identifying behavioral patterns and conversion rate optimization. Includes data cleaning, feature engineering, and statistical visualization.
+### 3. Airbnb Dublin — Conversion Funnel Analysis (Python)
+Analysis of ~130,000 search events and ~50,000 contact interactions on Airbnb's Dublin marketplace. Identifies where users drop off in the booking funnel and what drives conversion.
 
 - **Repository:** [airbnb-dublin-conversion-analysis-python](https://github.com/nemiys/airbnb-dublin-conversion-analysis-python)
-- **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/main/AirbnbDablin.ipynb)
-- **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-- **Key Skills:** Data cleaning, feature engineering, exploratory data analysis, business insights
-- **Status:** 🚧 In progress
+- **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/master/airbnb_analysis.ipynb)
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab, Excel
+- **Key Skills:** Data cleaning, feature engineering, funnel analysis, exploratory data analysis, business insights
+- **Highlights:** Price filter lifts booking rate from 10.9% → 18.6% (1.7×); France is the efficiency benchmark; lead time window of 8–30 days maximizes host acceptance
 
 ---
 
@@ -41,9 +43,11 @@ Analysis of Airbnb user interaction data in Dublin, focused on identifying behav
 | Category | Tools |
 |---|---|
 | Data Visualization | Tableau |
-| Data Analysis | SQL, Python |
-| Libraries | Pandas, Matplotlib, Seaborn |
+| Query Languages | BigQuery SQL |
+| Programming | Python |
+| Libraries | Pandas, Matplotlib, Seaborn, NumPy |
 | Data Sources | CSV, Excel |
+| Techniques | CTEs, Window Functions, Funnel Analysis, Feature Engineering, EDA |
 
 ---
 
