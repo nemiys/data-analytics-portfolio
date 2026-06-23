@@ -28,13 +28,13 @@ End-to-end marketing performance analysis for an online advertising platform. 13
 ---
 
 ### 3. Airbnb Dublin — Conversion Funnel Analysis (Python)
-Analysis of ~130,000 search events and ~50,000 contact interactions on Airbnb's Dublin marketplace. Identifies where users drop off in the booking funnel and what drives conversion.
+End-to-end conversion funnel analysis on Airbnb's Dublin marketplace (~130,000 searches, ~50,000 contacts). Covers platform-wide behavioral drivers — search filters, lead time, listing quality — alongside a market-by-market breakdown examining conversion efficiency, timezone effects, and country-level anomalies.
 
 - **Repository:** [airbnb-dublin-conversion-analysis-python](https://github.com/nemiys/airbnb-dublin-conversion-analysis-python)
 - **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/master/airbnb_analysis.ipynb)
-- **Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab, Excel
-- **Key Skills:** Data cleaning, feature engineering, funnel analysis, exploratory data analysis, business insights
-- **Highlights:** Price filter lifts booking rate from 10.9% → 18.6% (1.7×); France is the efficiency benchmark; lead time window of 8–30 days maximizes host acceptance
+- **Tools:** Python, Google Colab, Excel
+- **Libraries:** Pandas, Matplotlib, Seaborn, NumPy
+- **Workflow:** Raw CSV files → data cleaning and structuring in Excel → saved as Excel files → full analysis in Python
 
 ---
 
