@@ -28,7 +28,7 @@ End-to-end marketing performance analysis for an online advertising platform. 13
 ---
 
 ### 3. Airbnb Dublin — Conversion Funnel Analysis (Python)
-End-to-end conversion funnel analysis on Airbnb's Dublin marketplace (~130,000 searches, ~50,000 contacts). Covers platform-wide behavioral drivers — search filters, lead time, listing quality — alongside a market-by-market breakdown examining conversion efficiency, timezone effects, and country-level anomalies.
+End-to-end conversion funnel analysis on Airbnb's Dublin marketplace (18,605 unique searchers, 7,823 contact records from 3,283 guests). Covers platform-wide behavioral drivers — search filters, lead time, listing quality — alongside a market-by-market breakdown examining conversion efficiency, timezone effects, and country-level anomalies.
 
 - **Repository:** [airbnb-dublin-conversion-analysis-python](https://github.com/nemiys/airbnb-dublin-conversion-analysis-python)
 - **Open in Colab:** [Run Notebook](https://colab.research.google.com/github/nemiys/airbnb-dublin-conversion-analysis-python/blob/master/airbnb_analysis.ipynb)
